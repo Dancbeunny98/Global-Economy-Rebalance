@@ -1,0 +1,14 @@
+================
+|>Thank you very much for the installation of the Global Economy Rebalance!
+|> At the moment the modification changes the prices of fuel, salaries, garages and transportation.
+|> We remind you that the mod is in alpha version.
+|>In the gameplay settings, it is desirable to set the game currency (RUB); 
+================
+
+|>> Changes: 
+
+>A1.1
+| Change of penalties
+
+>A1.0
+| Fix bugs
