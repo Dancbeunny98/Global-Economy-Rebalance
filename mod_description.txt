@@ -8,7 +8,7 @@
 |>> Changes: 
 
 >A1.2
-| Fix bugs
+| Lots of Fix bugs
 
 >A1.1
 | Change of penalties
