@@ -7,6 +7,11 @@
 
 |>> Changes: 
 
+>A1.3
+- Adding an economic structure to some mod cards.
+- Fuel prices have been changed in different cities.
+P.s We are waiting for 1.32, because there will be a completely different economy <3
+
 >A1.2
 | Lots of Fix bugs
 
