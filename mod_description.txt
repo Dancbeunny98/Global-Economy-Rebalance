@@ -7,6 +7,9 @@
 
 |>> Changes: 
 
+>R1.0.2.3.1
+| After some time, I worked hard on the modification and reworked it for the better. In the future, the economy and compatibility with mod cards will be improved. Do not forget that this is the first release after a long development.
+
 >A1.3.1
 | Fix bugs
 
